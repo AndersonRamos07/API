@@ -9,10 +9,10 @@
     "type": "git",
     "url": "https://github.com/AndersonRamos07/API"
   },
-  "keywords": [
+  "keywords": {
     "name": "AndersonRamos07",
     "email": "andersonramos07@live.com"
-  ],
+  },
   "author": "AndersonRamos07",
   "license": "MIT"
 }
